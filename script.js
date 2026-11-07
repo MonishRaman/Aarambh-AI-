@@ -8,7 +8,7 @@ const submissionLinks = {
   github: "https://github.com/BharathKumarBD/Employee-Onboarding",
   resumesDrive: "https://drive.google.com/drive/folders/187lcfyREAFGuro173ZYSirEIvKaNl-8C?usp=sharing",
   presentation: "https://docs.google.com/presentation/d/19mPbSWuXBwLdqRo6fNJOaOCLCghvnjDd/edit?usp=sharing&ouid=100972528518452797412&rtpof=true&sd=true",
-  demoVideo: "PASTE_DEMO_VIDEO_LINK_HERE"
+  demoVideo: "https://youtu.be/xZzAFiJxBAY"
 };
 
 const linkElements = {
